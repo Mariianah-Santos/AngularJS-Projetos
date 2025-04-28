@@ -1,3 +1,20 @@
 {
-  "todolists": []
+  "todolists": [
+    {
+      "id": "060b",
+      "name": "JavaScript"
+    },
+    {
+      "id": "b8db",
+      "name": "Vue.js"
+    },
+    {
+      "id": "bddf",
+      "name": "TypeScript"
+    },
+    {
+      "id": "2b1c",
+      "name": "Inglês"
+    }
+  ]
 }
